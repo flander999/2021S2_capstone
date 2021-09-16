@@ -1,0 +1,64 @@
+[
+  {
+        "text": [
+            "How many <C> objects  are there?",
+            "What number of <C> objects are there?"
+        ],
+        "nodes": [
+            {
+                "inputs": [],
+                "type": "scene"
+            },
+            {
+                "side_inputs": [
+                    "<C>"
+                ],
+                "inputs": [
+                    0
+                ],
+                "type": "filter_count"
+            }
+        ],
+        "params": [
+            {
+                "type": "Category",
+                "name": "<C>"
+            }
+        ],
+        "constraints": []
+    },
+  {
+        "text": [
+            "How many words contained of objects <I>?",
+            "What number of words objects <I> contained?"
+        ],
+        "nodes": [
+            {
+                "inputs": [],
+                "type": "scene"
+            },
+            {
+                "side_inputs": [
+                    "<I>"
+                ],
+                "inputs": [
+                    0
+                ],
+                "type": "filter_unique"
+            },
+          {
+                "inputs": [
+                    1
+                ],
+                "type": "word_count"
+          }
+        ],
+        "params": [
+            {
+                "type": "Index",
+                "name": "<I>"
+            }
+        ],
+        "constraints": []
+    }
+]

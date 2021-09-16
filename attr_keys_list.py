@@ -1,0 +1,1 @@
+attr_keys = ['category_id']

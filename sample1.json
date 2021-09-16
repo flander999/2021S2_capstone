@@ -1,0 +1,2714 @@
+[
+  {
+    "page_filename": "16716219.pdf_0.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 0,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 0,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          54.83486557006836,
+          332.5306091308594,
+          492.24155044555664,
+          18.4053955078125
+        ],
+        "text": "This is an Open Access article distributed under the terms of the Creative Commons Artribution License (htsp:/icreacieecommons.orglicerses/by/2.0).\nwhich permits unrestricted use. distribution, and repraduction in any medium, provided the original work is properly cited.\n",
+        "word_count": 43,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 9059.900421329308
+      },
+      {
+        "segment_id": 1,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          55.10015106201172,
+          192.23435974121094,
+          501.71802520751953,
+          19.455673217773438
+        ],
+        "text": "Address: 'Department of Biochemistry, Faculty of Science, Banaras Hindu University, Varanasi-221005, India and Department of Zoology, Faculty\nof Science, Banaras Hindu University, Varanasi-221005, India\n",
+        "word_count": 33,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 9761.261945904116
+      },
+      {
+        "segment_id": 2,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          55.42105484008789,
+          551.677978515625,
+          497.49868392944336,
+          114.3763427734375
+        ],
+        "text": "Results: Both the collagenase and LAP were present in the body wall; however, they differ in their distribution pattern in\ndifferent layers of body wall. Collagenase was mainly localized in epicuticle, cuticle, syncytial hypodermis and the nerve cord\nregion whereas LAP was more concentrated in epicuticle, longitudinal muscle layers and almost absent or very faintly stained in\nsyncytial hypodermis and nerve cord region. Both collagenase and LAP showed their common distributions in intestine, uterus\nand mature eggs, growing embryos and mf. Very strong immunostaining of collagenase in the outer body surface of the parasite\nindicates its major role in host-parasite relationship whereas the presence of LAP in muscular region suggests its role in tissue\nremodeling. The common presences of collagenase and LAP in the S. cervi intestine, ovary, uterus, eggs and mf suggest that they\nalso have collaborative roles in molting, nutrition and embryogenesis. The data obtained on their immunological\ncharacterizations and their presence in important parasite organs give strong indication that they are critical for the survival of\nfilarial parasite and thus can be good vaccine candidates and/or diagnostic markers for human lymphatic filariasis.\n",
+        "word_count": 203,
+        "parent_child_relations": [
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 56902.080002448056
+      },
+      {
+        "segment_id": 3,
+        "local_id": 3,
+        "category_id": "text",
+        "bbox": [
+          53.5576057434082,
+          399.9335021972656,
+          498.92231369018555,
+          92.77780151367188
+        ],
+        "text": "Background: Like other helminth proteases, filarial proteases have also been shown to require for parasite survival inside the\nhost and mediate various physiologic processes such as tissue invasion, feeding, embryogenesis and host immune evasion. Many\nof these proteases have shown potential for vaccines and chemotherapeutic agents against active filarial infections. Setaria cervi\nis a bovine filarial parasite and serves as a good parasite model for the studies in lymphatic filariasis. Recently, a 175 kDa\ncollagenase and leucine aminopeptidase (LAP) have been purified and characterized from the bovine filarial parasite S. cervi and\nshown to be potential vaccine candidate and diagnostic marker, respectively for human lymphatic filariasis. However, their tissue\nlocalizations and putative roles in the parasite biology have not yet been examined and thus remain unclear. Therefore, the\ncurrent study attempts to localize and explore the putative roles of these two enzymes in S. cervi.\n",
+        "word_count": 161,
+        "parent_child_relations": [
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 46288.91539028997
+      },
+      {
+        "segment_id": 4,
+        "local_id": 4,
+        "category_id": "text",
+        "bbox": [
+          54.06065368652344,
+          673.5169067382812,
+          501.78187561035156,
+          46.73870849609375
+        ],
+        "text": "Conclusion: The manuscript reports for the first time the tissue distribution of collagenase and LAP in the bovine filarial\nparasite S. cervi and discuss their putative roles in vivo. Our findings also open the avenue to examine the roles of these two\nproteases in vivo, which will require further experiments like using their natural substrates and/or specific inhibitors in each\ntissues.\n",
+        "word_count": 65,
+        "parent_child_relations": [
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 23452.636812775396
+      },
+      {
+        "segment_id": 5,
+        "local_id": 5,
+        "category_id": "text",
+        "bbox": [
+          54.664390563964844,
+          499.1487731933594,
+          498.7410659790039,
+          45.945587158203125
+        ],
+        "text": "Methods: The tissue distributions of 175 kDa collagenase and leucine aminopeptidase in S. cervi were examined by\nimmunohistochemical and histochemical methods, respectively. Immune sera obtained from the jirds immunized with\ncollagenase served as primary antibody, rabbit anti-mouse IgG-HRP conjugate as secondary antibody and DAB as the substrate\nfor the immunostaining of collagenase. Leu-BNA was used as the substrate for the histochemical staining of LAP.\n",
+        "word_count": 70,
+        "parent_child_relations": [
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 22914.95111631346
+      },
+      {
+        "segment_id": 6,
+        "local_id": 6,
+        "category_id": "text",
+        "bbox": [
+          54.20814895629883,
+          137.21670532226562,
+          439.7161064147949,
+          35.850494384765625
+        ],
+        "text": "Daya R Pokharel', Reeta Rai!, Pankaj Kumar?, C M Chaturvedi? and\nSushma Rathaur*\n",
+        "word_count": 20,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 15764.03980391461
+      },
+      {
+        "segment_id": 7,
+        "local_id": 7,
+        "category_id": "title",
+        "bbox": [
+          54.309017181396484,
+          102.06450653076172,
+          497.4761390686035,
+          35.142906188964844
+        ],
+        "text": "Tissue localization of collagenase and leucine aminopeptidase in the\nbovine filarial parasite Setaria cervi\n",
+        "word_count": 14,
+        "parent_child_relations": [
+          [
+            "parent",
+            "6"
+          ],
+          [
+            "parent",
+            "1"
+          ],
+          [
+            "parent",
+            "0"
+          ]
+        ],
+        "size": 17482.75728653636
+      },
+      {
+        "segment_id": 8,
+        "local_id": 8,
+        "category_id": "title",
+        "bbox": [
+          55.13042068481445,
+          383.80914306640625,
+          43.61863327026367,
+          13.331939697265625
+        ],
+        "text": "Abstract\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "3"
+          ],
+          [
+            "parent",
+            "5"
+          ],
+          [
+            "parent",
+            "2"
+          ],
+          [
+            "parent",
+            "4"
+          ]
+        ],
+        "size": 581.5209884362994
+      }
+    ],
+    "relations": {
+      "top": [
+        [
+          2,
+          3,
+          4,
+          5,
+          8
+        ],
+        [
+          0,
+          2,
+          3,
+          4,
+          5,
+          8
+        ],
+        [
+          4
+        ],
+        [
+          2,
+          4,
+          5
+        ],
+        [],
+        [
+          2,
+          4
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          8
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8
+        ],
+        [
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "bottom": [
+        [
+          1,
+          6,
+          7
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          0,
+          1,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          0,
+          1,
+          6,
+          7,
+          8
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          0,
+          1,
+          3,
+          6,
+          7,
+          8
+        ],
+        [
+          7
+        ],
+        [],
+        [
+          0,
+          1,
+          6,
+          7
+        ]
+      ],
+      "left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "right": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "top-left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "top-right": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-right": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_1.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 1,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 9,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          311.99005126953125,
+          578.7774658203125,
+          241.23846435546875,
+          151.7318115234375
+        ],
+        "text": "Adult, motile S. cervi worms were procured from the peri-\ntoneal folds of freshly slaughtered Indian buffaloes. They\nwere brought to the laboratory from local abattoir in\nKreb's Ringer solution supplemented with streptomycin\n(100 ug/ml), penicillin (100 ug/ml). glutamine (2 mM)\nand glucose (1%). Worms were washed six times with\nPBS, divided into two groups and chopped into short frag-\nments. The parasite tissues aimed for IHC of collagenase\nwere fixed in Bouin's fixer for 24 h at room temperature\nand embedded in paraffin block until use. The next group\nof chopped parasites aimed for histochemistry of LAP was\nfixed in formol-calcium at 4\u00b0C for 24 h and embedded in\nparaffin block until use.\n",
+        "word_count": 134,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 36603.54920578748
+      },
+      {
+        "segment_id": 10,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          54.223358154296875,
+          625.3236694335938,
+          241.70523071289062,
+          105.3192138671875
+        ],
+        "text": "The S. cervi LAP has been characterized as a member of\nM17 family of Zn-containing metalloprotease. This\nenzyme was inhibited by Zn-chelating inhibitor 1, 10-\nphenanthroline and other metalloprotease inhibitors like\nEDTA, amastatin and bestatin, and showed very high pref-\nerence towards the substrate leucine para-nitroannilide\n(Leu-pNA). The enzyme purified from adult worm solu-\nble extract showed high specificity with microfilaraemic\nsera from individuals infected with W. bancrofti (Unpub-\n",
+        "word_count": 77,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 25456.204886268824
+      },
+      {
+        "segment_id": 11,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          54.307247161865234,
+          96.23773956298828,
+          241.0743751525879,
+          246.0905990600586
+        ],
+        "text": "Proteases of various mechanistic dasses have been identi-\nfied in various filarial and other helminth parasites and\ngenes encoding them have been isolated and cloned.\nThese parasite proteases are pivotal for the parasitic exist-\nence inside the hostile environment of the hosts. Beside\ntheir general protein processing and catabolic functions,\nproteases have been found to be critical for parasite feed-\ning, host immune evasion, embryogenesis, molting and\ntissue invasion [1-6], They have been shown to be highly\nimmunogenic and thus exploited as serodiagnostic mark-\ners and vaccine candidates for many helminth infections\n[7-9). Compared to their host counterparts; parasite pro-\nteases have distinct structural and biochemical properties\nand cellular locations. This disparate nature of parasite\nproteases has also opened opportunities for chemother-\napy against many parasitic diseases [10-12]. Thus explor-\ning biochemical and immunological properties, structures\nand roles of parasite proteases in vivo is an essential step\ntowards the identification and development of ideal diag\nnostic markers and, vaccine and drug targets for the con-\ntrol of parasitic diseases.\n",
+        "word_count": 189,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 59326.13739932966
+      },
+      {
+        "segment_id": 12,
+        "local_id": 3,
+        "category_id": "text",
+        "bbox": [
+          312.25439453125,
+          202.14993286132812,
+          241.1568603515625,
+          258.4993896484375
+        ],
+        "text": "Although biochemical and immunological properties of\nS. cenvi collagenase and LAP have been studied in detail,\ntheir localizations and possible physiological roles inside\nthe parasite body have not yet been examined and thus\nremain unclear. Therefore, to address the potential in vivo\nroles of collagenase and LAP, it would be helpful to estab-\nlish their precise locations in the parasite tissues. Reports\non tissue localization of collagenase in filarial and other\nhelminth parasites are scanty. However, tissue localiza-\ntion of related metallo-, cysteine and acidic proteases have\nbeen carried out in various filarial (1,3] and non-filarial\nparasites [18-20] and have shown their presence mainly\non intestinal microvilli, cuticle, hypodermis, ovary, uteri,\nand periphery of eggshell and growing embryos. On the\nother hand, LAP has been detected, purified and charac-\nterized in many other related parasites eg in F. hepatica\n[21], Ascaris suum [22-24], Schistosoma mansoni and S.\njaponicum [25,26]. In case of F. hepatica, the enzyme was\nlocalized to the cells of the gut epithelium of adult flukes\n[21]. Immunolocalisation studies in S. mansoni showed\nthat LAP was localized in the gastrodermal cells surround-\ning the gut lumen and surface tegument and eggs [25,26].\n",
+        "word_count": 230,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 62338.90121041238
+      },
+      {
+        "segment_id": 13,
+        "local_id": 4,
+        "category_id": "text",
+        "bbox": [
+          54.40177917480469,
+          355.51239013671875,
+          241.4977569580078,
+          257.89141845703125
+        ],
+        "text": "Setaria cervi is a filarial parasite of Indian buffaloes and\nresembles with Wuchereria bancrofti in its nocturnal perio-\ndicity and antigenic pattern. Being a bovine parasite, its\nuse as the parasite model is not restricted by the inherent\nethical and practical limitations associated with humans\nand therefore serve as a good model parasite for the stud-\nies in lymphatic filariasis. Recently, two metalloproteases:\na 175 kDa collagenase and leucine aminopeptidase (LAP).\nhave been purified and characterized from adult female S.\ncenvi in authors' laboratory. The S. cervi collagenase was\nshown to have important roles in host immune evasion\nand immunoprotection. This enzyme specifically cleaved\nhuman IgG in vitro and was inhibited by the antibodies\nraised against it in jirds. The enzyme also showed a very\nhigh cross-reactivity with putatively immune human sera\ncollected from filarial endemic zones [13,14| and showed\nantigenic similarity to Brugia malayi [Unpublished obser-\nvation]. Both in vitro antibody dependent cell mediated\ncytotoxicity (ADCC) assay |15] and vaccine trial carried\nout in jirds against B. malayi using purified collagenase\nsuggested it to be an effective vaccine candidate against\nhuman lymphatic filariasis (Unpublished observation].\n",
+        "word_count": 208,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 62280.19909609202
+      },
+      {
+        "segment_id": 14,
+        "local_id": 5,
+        "category_id": "text",
+        "bbox": [
+          312.0570068359375,
+          85.1641616821289,
+          241.09136962890625,
+          105.25536346435547
+        ],
+        "text": "lished observation]. The later observation has indicated its\npotential use as a diagnostic marker for filarial infection.\nA vaccine trial with LAP is currently under progress and\nresults are awaited. Vaccinations with aminopeptidase\nalone or in combination with other proteases have\nyielded very high protection against Fasciola hepatica and\nHaemonchus contortus infections in sheep [9,16,17]. Thus,\nit may be anticipated that S. cervi LAP will too provide suf-\nficient host protection against B. malayi infection in jirds.\n",
+        "word_count": 86,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 25376.1597384098
+      },
+      {
+        "segment_id": 15,
+        "local_id": 6,
+        "category_id": "text",
+        "bbox": [
+          312.036376953125,
+          472.7211608886719,
+          241.39202880859375,
+          70.18759155273438
+        ],
+        "text": "In this study, we therefore investigated the localization of\ncollagenase and LAP in the adult female S. cervi tissues\nincluding eggs and mf still present within the worm ovary\nand uterus by IHC and histochemical staining respectively\nand discuss their putative physiological roles in the para-\nsite body.\n",
+        "word_count": 50,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 16942.725122103468
+      },
+      {
+        "segment_id": 16,
+        "local_id": 7,
+        "category_id": "title",
+        "bbox": [
+          312.5939636230469,
+          566.8545532226562,
+          164.72479248046875,
+          10.929931640625
+        ],
+        "text": "Filarial parasites and tissue preparation\n",
+        "word_count": 5,
+        "parent_child_relations": [
+          [
+            "parent",
+            "0"
+          ],
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 1800.4307213276625
+      },
+      {
+        "segment_id": 17,
+        "local_id": 8,
+        "category_id": "title",
+        "bbox": [
+          311.8764953613281,
+          554.5482177734375,
+          44.156158447265625,
+          12.48699951171875
+        ],
+        "text": "Methods\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "7"
+          ]
+        ],
+        "size": 551.3779289703816
+      },
+      {
+        "segment_id": 18,
+        "local_id": 9,
+        "category_id": "title",
+        "bbox": [
+          54.96681594848633,
+          84.3990707397461,
+          59.843990325927734,
+          12.377861022949219
+        ],
+        "text": "Background\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "2"
+          ],
+          [
+            "parent",
+            "4"
+          ],
+          [
+            "parent",
+            "1"
+          ],
+          [
+            "parent",
+            "5"
+          ],
+          [
+            "parent",
+            "3"
+          ],
+          [
+            "parent",
+            "6"
+          ]
+        ],
+        "size": 740.740595313051
+      }
+    ],
+    "relations": {
+      "top": [
+        [],
+        [],
+        [
+          1,
+          4
+        ],
+        [
+          0,
+          6,
+          7,
+          8
+        ],
+        [
+          1
+        ],
+        [
+          0,
+          3,
+          6,
+          7,
+          8
+        ],
+        [
+          0,
+          7,
+          8
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "bottom": [
+        [
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        [
+          2,
+          4,
+          9
+        ],
+        [],
+        [
+          5
+        ],
+        [
+          2,
+          9
+        ],
+        [],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          5,
+          6
+        ],
+        [
+          3,
+          5,
+          6
+        ],
+        []
+      ],
+      "left": [
+        [],
+        [
+          0
+        ],
+        [
+          3,
+          5,
+          9
+        ],
+        [],
+        [
+          0,
+          3,
+          6,
+          7,
+          8
+        ],
+        [],
+        [],
+        [],
+        [
+          7
+        ],
+        [
+          5
+        ]
+      ],
+      "right": [
+        [
+          1,
+          4
+        ],
+        [],
+        [],
+        [
+          2,
+          4
+        ],
+        [],
+        [
+          2,
+          9
+        ],
+        [
+          4
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          4
+        ],
+        [
+          2
+        ]
+      ],
+      "top-left": [
+        [],
+        [],
+        [
+          0,
+          6,
+          7,
+          8
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          0,
+          3,
+          6,
+          7,
+          8
+        ]
+      ],
+      "top-right": [
+        [],
+        [],
+        [],
+        [
+          1
+        ],
+        [],
+        [
+          1,
+          4
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        [
+          1
+        ],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        [],
+        [],
+        [
+          5
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-right": [
+        [
+          2,
+          9
+        ],
+        [],
+        [],
+        [
+          9
+        ],
+        [],
+        [],
+        [
+          2,
+          9
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          2,
+          9
+        ],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_2.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 2,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 19,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          312.10943603515625,
+          508.6065368652344,
+          241.177490234375,
+          221.77456665039062
+        ],
+        "text": "The appearance of dark brown color of DAB was consid-\nered as the basis for evaluation of positive staining in the\nparasite tissues. Very strong immunostaining was\nobserved in the epicuticle and cuticle followed by syncy-\ntial hypodermis. Good staining was observed in longitu-\ndinal muscle layers, endodermis, intestinal wall, uterine\nwall, ovary (growth and germinal zones), and periphery\nof mature eggs and growing embryo inside the uterus. The\nintensity of enzyme staining was found to be gradually\nincreased from immature ovary to fully-grown ovary. The\nstaining in mf was, however, found to be localized in cer-\ntain secretary pores and body cavity when viewed under\nhigher magnification (Fig 1B-G). Faint staining was\nobserved in the innervation process beneath the body\nwall. No staining was observed in the spaces between lon-\ngitudinal muscle layers and the tissue inside the uterus.\nNo such staining was observed in control sections in\nwhich preimmune jirds sera were used as primary anti-\nbody (Fig 1A).\n",
+        "word_count": 182,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 53487.03338255733
+      },
+      {
+        "segment_id": 20,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          54.358394622802734,
+          391.0856628417969,
+          241.39856338500977,
+          327.7749938964844
+        ],
+        "text": "Thin sections (5 um) of the paraffin embedded tissues of\nS. cervi aimed for IHC of collagenase were cut using a\nmicrotome and spread over 1% gelatin coated slides\nwhich were covered with distilled water and warmed at\n55-60*C. The immunohistochemistry was performed as\ndescribed elsewhere [27]. Briefly, sections were depar-\naffinised with three changes of xylene and rehydrated\nthrough graded alcohols and finally with water. The\nendogenous peroxidase activity was inactivated by incu-\nbating these sections in 3% H,O, in methanol for 30 min\nat room temperature. Next, the slides were rinsed with\nthree changes of PBS and the sections were incubated with\n2% normal rabbit blocking serum for 1 h. The excess\nblocking serum was shed off and the sections were further\nincubated overnight at 4\u00b0C with primary antibody\nobtained from jirds (Meriones unguilatus) immunized with\npurified collagenase (1:200 dilutions). The sections were\nrinsed thrice with PBS and incubated for 1 h with horse-\nradish peroxidase conjugated secondary antibody (1:2500\ndilutions) at room temperature. The antigen-antibody\ncomplex was then visualized by incubating the sections\nwith 3, 3'-diaminobenzidine (DAB) solution (1 mM DAB,\n50 mM Tris-HCI, pH 7.6, and 0.015% H,O,) in dark for\n15-30 min. The slides were then counterstained with\nMeyer's hematoxylin and treated through graded alcohols\nand xylene, and mounted with DPX. Sections exposed to\npreimmune jirds sera were always included as negative\ncontrols. Permanent slides were examined using a light\n",
+        "word_count": 275,
+        "parent_child_relations": [
+          [
+            "child",
+            "10"
+          ]
+        ],
+        "size": 79124.41264014167
+      },
+      {
+        "segment_id": 21,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          312.1895751953125,
+          425.98150634765625,
+          240.397216796875,
+          69.869140625
+        ],
+        "text": "We examined the localization of 175kDa collagenase in\nvarious tissues of adult S. cervi worms including eggs and\nmicrofilariae using IHC and assessed the immunostaining\nfrom at least five sections obtained from different body\nregions of the three separate worms. The results of immu-\nnostaining are summarized in Table 1.\n",
+        "word_count": 52,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 16796.34694623947
+      },
+      {
+        "segment_id": 22,
+        "local_id": 3,
+        "category_id": "text",
+        "bbox": [
+          311.4142761230469,
+          133.0894317626953,
+          242.50198364257812,
+          256.6414337158203
+        ],
+        "text": "The parasite tissues fixed in formol-calcium were cut into\nthin sections (5 pm) and spread over gelatin coated slides\nas described above for collagenase. The sections were\ndeparaffinised with xylene and rehydrated through graded\nalcohols and water. LAP histochemical staining was per-\nformed according to the method described elsewhere\n[28]. Briefly, the rehydrated sections were incubated with.\nthe incubating solution [L-Leu-B-naphthylamide 0.5 mM,\nPotassium cyanide (0.00065%), sodium chloride\n(0.34%) and Fast Blue B salt (0.05%)] in a moist dark\nchamber for 2 h. Next, the slides were rinsed consecutively\nin 0.85% saline, 0.1 M copper sulphate and again with\nsaline for 2 min cach. The sections were then counter-\nstained with 2% methyl green for 3 min and rinsed in dis-\ntilled water. Finally the counterstained sections were\ntreated through the graded alcohols, xylene and mounted\nin DPX for permanent slide preparation. Sections for neg-\native controls were incubated in the incubating medium\nwithout the substrate. The slides were observed under a\nlight microscope (Nikon Edlipse E800, Nikon, Tokyo,\nJapan) and photographed with Nikon digital Camera\nDXM 1200.\n",
+        "word_count": 215,
+        "parent_child_relations": [
+          [
+            "child",
+            "9"
+          ]
+        ],
+        "size": 62236.056760961656
+      },
+      {
+        "segment_id": 23,
+        "local_id": 4,
+        "category_id": "text",
+        "bbox": [
+          313.16949462890625,
+          85.42088317871094,
+          240.3765869140625,
+          22.99713897705078
+        ],
+        "text": "microscope (Nikon Eclipse E800, Nikon, Tokyo, Japan)\nand photographed with Nikon digital Camera DXM 1 200.\n",
+        "word_count": 22,
+        "parent_child_relations": [
+          [
+            "child",
+            "10"
+          ]
+        ],
+        "size": 5527.9737760918215
+      },
+      {
+        "segment_id": 24,
+        "local_id": 5,
+        "category_id": "table caption",
+        "bbox": [
+          54.88213348388672,
+          85.41452026367188,
+          231.58130645751953,
+          9.70062255859375
+        ],
+        "text": "Table I: Tissue Distribution of Collagenase and LAP in S. cerve.\n",
+        "word_count": 13,
+        "parent_child_relations": [
+          [
+            "child",
+            "11"
+          ]
+        ],
+        "size": 2246.4828455704264
+      },
+      {
+        "segment_id": 25,
+        "local_id": 6,
+        "category_id": "text",
+        "bbox": [
+          57.44813537597656,
+          322.6075744628906,
+          232.78602600097656,
+          18.58941650390625
+        ],
+        "text": "**+++: Strongly positive: +++. Positive: +++. Moderately positive:\nPositive: + or +: Faintly positive: : Negative: NS: Not Studied\n",
+        "word_count": 30,
+        "parent_child_relations": [
+          [
+            "child",
+            "11"
+          ]
+        ],
+        "size": 4327.356393621303
+      },
+      {
+        "segment_id": 26,
+        "local_id": 7,
+        "category_id": "title",
+        "bbox": [
+          312.3682861328125,
+          413.3709411621094,
+          156.51986694335938,
+          11.624786376953125
+        ],
+        "text": "Distribution of collagenase in S. cerv\n",
+        "word_count": 6,
+        "parent_child_relations": [
+          [
+            "parent",
+            "2"
+          ],
+          [
+            "parent",
+            "0"
+          ],
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 1819.5100169656798
+      },
+      {
+        "segment_id": 27,
+        "local_id": 8,
+        "category_id": "title",
+        "bbox": [
+          312.0663757324219,
+          401.71221923828125,
+          36.25054931640625,
+          12.608917236328125
+        ],
+        "text": "Results\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "7"
+          ]
+        ],
+        "size": 457.0801761019975
+      },
+      {
+        "segment_id": 28,
+        "local_id": 9,
+        "category_id": "title",
+        "bbox": [
+          311.50921630859375,
+          120.57316589355469,
+          233.26995849609375,
+          10.9803466796875
+        ],
+        "text": "Histochemical staining of leucine aminopeptidase (LAP)\n",
+        "word_count": 8,
+        "parent_child_relations": [
+          [
+            "parent",
+            "3"
+          ]
+        ],
+        "size": 2561.385014243424
+      },
+      {
+        "segment_id": 29,
+        "local_id": 10,
+        "category_id": "title",
+        "bbox": [
+          55.03430938720703,
+          379.2018737792969,
+          181.42693328857422,
+          10.429290771484375
+        ],
+        "text": "Immunohistochemistry (IHC) of collagenase\n",
+        "word_count": 6,
+        "parent_child_relations": [
+          [
+            "parent",
+            "1"
+          ],
+          [
+            "parent",
+            "4"
+          ]
+        ],
+        "size": 1892.1542410452385
+      },
+      {
+        "segment_id": 30,
+        "local_id": 11,
+        "category_id": "table",
+        "bbox": [
+          56.697471618652344,
+          100.93626403808594,
+          239.99036407470703,
+          215.79466247558594
+        ],
+        "text": "Relative Staining Intensity\nTissues\nCollagenase\nLeucine\nAminopeptidase\n(LAP)\nEpiuticle\nCuticle\n+++\nSyncytial hypodermis\nLongitudinal muscle layers ++\nEndodermis\n+++\n+++\nIntestine\n+++\n++++\nOvary growth zone\nOvary germinal zone\n++\nNS\nUterine wall\nEggs\n(a) Immature\n(b) Mature\nEmbryo\n+++\n+++\nMicrofilariae (mf)\n++\n++++\n",
+        "word_count": 53,
+        "parent_child_relations": [
+          [
+            "parent",
+            "6"
+          ],
+          [
+            "parent",
+            "5"
+          ]
+        ],
+        "size": 51788.63961289439
+      }
+    ],
+    "relations": {
+      "top": [
+        [],
+        [],
+        [
+          0
+        ],
+        [
+          0,
+          2,
+          7,
+          8
+        ],
+        [
+          0,
+          2,
+          3,
+          7,
+          8,
+          9
+        ],
+        [
+          1,
+          6,
+          10,
+          11
+        ],
+        [
+          1,
+          10
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          3,
+          7,
+          8
+        ],
+        [
+          1
+        ],
+        [
+          1,
+          6,
+          10
+        ]
+      ],
+      "bottom": [
+        [
+          2,
+          3,
+          4,
+          7,
+          8,
+          9
+        ],
+        [
+          5,
+          6,
+          10,
+          11
+        ],
+        [
+          3,
+          4,
+          7,
+          8,
+          9
+        ],
+        [
+          4,
+          9
+        ],
+        [],
+        [],
+        [
+          5,
+          11
+        ],
+        [
+          3,
+          4,
+          9
+        ],
+        [
+          3,
+          4,
+          9
+        ],
+        [
+          4
+        ],
+        [
+          5,
+          6,
+          11
+        ],
+        [
+          5
+        ]
+      ],
+      "left": [
+        [],
+        [
+          0,
+          2,
+          7,
+          8
+        ],
+        [],
+        [],
+        [],
+        [
+          4
+        ],
+        [
+          3
+        ],
+        [],
+        [
+          7
+        ],
+        [],
+        [
+          3
+        ],
+        [
+          3,
+          4,
+          9
+        ]
+      ],
+      "right": [
+        [
+          1
+        ],
+        [],
+        [
+          1
+        ],
+        [
+          6,
+          10,
+          11
+        ],
+        [
+          5,
+          11
+        ],
+        [],
+        [],
+        [
+          1,
+          8
+        ],
+        [
+          1
+        ],
+        [
+          11
+        ],
+        [],
+        []
+      ],
+      "top-left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          0,
+          2,
+          3,
+          7,
+          8,
+          9
+        ],
+        [
+          0,
+          2,
+          7,
+          8
+        ],
+        [],
+        [],
+        [],
+        [
+          0,
+          2,
+          7,
+          8
+        ],
+        [
+          0,
+          2,
+          7,
+          8
+        ]
+      ],
+      "top-right": [
+        [],
+        [],
+        [],
+        [
+          1
+        ],
+        [
+          1,
+          6,
+          10
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          1,
+          6,
+          10
+        ],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [
+          3,
+          4,
+          9
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          4,
+          9
+        ],
+        [],
+        [],
+        [],
+        [
+          4,
+          9
+        ],
+        []
+      ],
+      "bottom-right": [
+        [
+          5,
+          6,
+          10,
+          11
+        ],
+        [],
+        [
+          5,
+          6,
+          10,
+          11
+        ],
+        [
+          5
+        ],
+        [],
+        [],
+        [],
+        [
+          5,
+          6,
+          10,
+          11
+        ],
+        [
+          5,
+          6,
+          10,
+          11
+        ],
+        [
+          5
+        ],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_3.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 3,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 31,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          312.05047607421875,
+          543.3359985351562,
+          241.69085693359375,
+          187.31158447265625
+        ],
+        "text": "Although, viability studies of S. cervi are yet to be done\nusing specific inhibitors of collagenase and LAP, their\npresence in outer surface of mf definitely indicates their\nroles in larval molting. As the staining intensity of LAP\nwas higher and widespread on mf surface, this enzyme\nshould primarily be involved for molting process. Colla-\ngenase, in addition to its possible role in larval molting.\nmust be involved in immune evasion and migration in\nthe host tissues. It has already been shown that the S. cervi\ncollagenase (both secreted and somatic) can cleave\nhuman IgG molecules precisely at the papain cleavage site\nof hinge region and hydrolyze connective tissue proteins\nlike collagen in vitro. The enzyme was also shown to pre-\nvent the antibody-mediated attachment of cosinophils to\nthe parasite surface when tested in jirds by in vitro ADCC\nassay [15]. However, their expression in adult stage indi-\n",
+        "word_count": 163,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 45271.49736478552
+      },
+      {
+        "segment_id": 32,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          54.17356872558594,
+          96.6191635131836,
+          242.0235137939453,
+          211.4471206665039
+        ],
+        "text": "Next, we examined the distribution of LAP in adult worm\ntissues including eggs, developing embryos and mf by his-\ntochemical staining using L-Leu-\u00df-Naphthylamide as sub-\nstrate. The distribution pattern and staining intensity are\npresented in Table 1. The pink to magenta colour\nobtained due to reaction of B-naphtylamine and Fast Blue\nB salt in the presence of Cu 2* ions against reddish brown\nbackground was considered as the positive staining\nStrong staining was observed in epicuticle, longitudinal\nmuscle layers, uterine walls and mf surface followed by\nintestine and endodermis. The young ovary walls, periph-\nery of eggs and developing embryos showed moderate\nstaining. No enzyme staining was observed in and around\nthe nerve cord, syncytial hypodermis and tissue inside the\nuterus (Fig. 2A-F). Here again the intensity of enzyme\nstaining was found to increase with the maturity of ovary\nand eggs. The staining intensity of LAP in mf surface was\nfar higher compared to immunostaining of collagenase.\n",
+        "word_count": 173,
+        "parent_child_relations": [
+          [
+            "child",
+            "8"
+          ]
+        ],
+        "size": 51175.17512531963
+      },
+      {
+        "segment_id": 33,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          312.0400695800781,
+          84.96317291259766,
+          241.54403686523438,
+          164.06847381591797
+        ],
+        "text": "and selectively permeable [29]. Molting is a multistage\nprocess, involving breakdown of the connections between\nthe cytoskeleton of the hypodermis and the old cuticle\n(apolysis), elaboration of the new cuticle, and shedding of\nthe old cuticle (ccdysis) [30]. Both apolysis and ecdysis\nrequire the involvement of proteases for the degradation\nof cuticular proteins. Additionally, proteases may also be\ninvolved in the processing of pro-proteins that are subse-\nquently incorporated into the new cuticie [29]. Several\ntype of proteases such as serine, cysteine and/or metallo-\nproteases that are active during molting have been\ndescribed in filariae [31-33] and other helminth parasites\nsuch as Phocanema decipiens [34], Ancylostoma sps. [35].\nHaemonchus contertus |18,36-38] and C. elegans (2,39|.\n",
+        "word_count": 146,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 39629.76148781483
+      },
+      {
+        "segment_id": 34,
+        "local_id": 3,
+        "category_id": "text",
+        "bbox": [
+          54.55521011352539,
+          401.8353576660156,
+          241.4939842224121,
+          293.1947326660156
+        ],
+        "text": "While comparing the distribution patterns of collagenase\nand leucine aminopeptidase in S. cervi we observed a\nmarked difference in their distribution pattern in body\nwall and mf surface (Fig 1 and 2). Whereas the collagenase\nwas highly expressed in epicuticle and cuticle region and\nsyncytial hypodermis (Fig 1C), expression of LAP was\nmore prominent in epicuticle, longitudinal muscle layers,\nendodermis and intestine (Fig 2C). Unlike collagenase,\nthe staining for LAP was not very strong in epicuticle and\nalmost no or faint staining was observed in cuticle, nerve\ncord and syncytial hypodermis regions (Fig 2B). Further-\nmore, only body cavity and certain surface bound excre-\ntory/secretory pores were positively stained for\ncollagenase, staining for LAP was widespread and stronger\nin mf surface (Fig 1G and 2F). This difference in enzyme\ndistribution pattern in adult worm's body wall and mf\nsurface indicates their different job priority in these\nregions. However, almost similar distribution patterns for\nboth the enzymes were noted in intestine, mature eggs,\nembryos and uterine wall thus indicating their parallel or\ncollaborative functions at least in these regions. The devel-\noping ovary wall and eggs were either negative or faintly\nstained whereas uterine wall, mature eggs and growing\nembryos showed good staining for both the enzymes (Fig\n1 and 2).\n",
+        "word_count": 241,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 70804.76414454111
+      },
+      {
+        "segment_id": 35,
+        "local_id": 4,
+        "category_id": "text",
+        "bbox": [
+          312.0823974609375,
+          260.95928955078125,
+          241.5804443359375,
+          269.8662109375
+        ],
+        "text": "In filarial nematodes, the molt from third-stage larvae\n(L3) to fourth-stage larvae (L4) begins immediately after\nthe nematodes enter a vertebrate host and require several\ntypes of proteases. Irreversible cysteine protease inhibitors\ndelay or stop this molting process in vitro in case of L3 lar-\nval stages of Onchocerca volvulas [32], Dirofilaria immitis\n[40] and B. pahangi [1]. In these nematodes, the L3 larvae\nwere found to be viable, but were unable to exsheath.\nLabeled cysteine protease inhibitors or antibodies located\nthe cathepsin L-like protease activity to the fluid-filled\nspace between the nematode tegument and the exsheath-\ning cuticle. More recently, cathepsins L. (CPL)-like genes.\nwere cloned from O. volvalus (Or-cpl-1) and C. elegans (Ce-\nepl-1) and shown to localize in the cuticles of molting\nworms, thus implicating they also have a potential role in\nthe molting process (2]. A conserved metalloprotease,\nNAS 37, has also been shown to involve in the final stage\nof molting in C. elegans [39]. This protease is expressed in\nhypodermal cells four hour before ecdysis during all larval\nstages and is shed in the cuticle after ecdysis. An ortholog\nof NAS-37 has been reported from other parasitic nema-\ntodes, such as H. contortus which undergo a similar shed-\nding process 36].\n",
+        "word_count": 247,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 65194.39914953709
+      },
+      {
+        "segment_id": 36,
+        "local_id": 5,
+        "category_id": "text",
+        "bbox": [
+          55.50186538696289,
+          331.7639465332031,
+          239.9434471130371,
+          58.305084228515625
+        ],
+        "text": "We have investigated the tissue localizations of two\nimportant proteolytic enzymes viz. 175kDa collagenase\nand leucine aminopeptidase in the bovine filarial parasite\nS. cervi by immunohistochemical and histochemical\nstaining, respectively.\n",
+        "word_count": 33,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 13989.922894006013
+      },
+      {
+        "segment_id": 37,
+        "local_id": 6,
+        "category_id": "text",
+        "bbox": [
+          54.521400451660156,
+          707.50244140625,
+          241.51885223388672,
+          23.05517578125
+        ],
+        "text": "The cuticle in all nematode parasites is an extracellular\nhydroskeleton that is relatively inert, structurally robust,\n",
+        "word_count": 18,
+        "parent_child_relations": [
+          [
+            "child",
+            "7"
+          ]
+        ],
+        "size": 5568.2595927380025
+      },
+      {
+        "segment_id": 38,
+        "local_id": 7,
+        "category_id": "title",
+        "bbox": [
+          54.98143768310547,
+          319.4237365722656,
+          51.95835876464844,
+          12.755157470703125
+        ],
+        "text": "Discussion\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "5"
+          ],
+          [
+            "parent",
+            "3"
+          ],
+          [
+            "parent",
+            "6"
+          ],
+          [
+            "parent",
+            "2"
+          ],
+          [
+            "parent",
+            "4"
+          ],
+          [
+            "parent",
+            "0"
+          ]
+        ],
+        "size": 662.7370479623787
+      },
+      {
+        "segment_id": 39,
+        "local_id": 8,
+        "category_id": "title",
+        "bbox": [
+          54.486778259277344,
+          84.97261047363281,
+          124.85334014892578,
+          10.900863647460938
+        ],
+        "text": "Distribution of LAP in S. cervi\n",
+        "word_count": 6,
+        "parent_child_relations": [
+          [
+            "parent",
+            "1"
+          ]
+        ],
+        "size": 1361.0092368935002
+      }
+    ],
+    "relations": {
+      "top": [
+        [],
+        [
+          3,
+          5,
+          6,
+          7
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          6
+        ],
+        [
+          0
+        ],
+        [
+          3,
+          6
+        ],
+        [],
+        [
+          3,
+          6
+        ],
+        [
+          1,
+          3,
+          5,
+          6,
+          7
+        ]
+      ],
+      "bottom": [
+        [
+          2,
+          4
+        ],
+        [
+          8
+        ],
+        [],
+        [
+          1,
+          5,
+          7,
+          8
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          1,
+          3,
+          5,
+          7,
+          8
+        ],
+        [
+          1,
+          8
+        ],
+        []
+      ],
+      "left": [
+        [],
+        [
+          2,
+          4
+        ],
+        [],
+        [
+          0,
+          4
+        ],
+        [],
+        [
+          4
+        ],
+        [
+          0
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          2
+        ]
+      ],
+      "right": [
+        [
+          3,
+          6
+        ],
+        [],
+        [
+          1,
+          8
+        ],
+        [],
+        [
+          1,
+          3,
+          5,
+          7
+        ],
+        [
+          7
+        ],
+        [],
+        [],
+        []
+      ],
+      "top-left": [
+        [],
+        [
+          0
+        ],
+        [],
+        [],
+        [],
+        [
+          0
+        ],
+        [],
+        [
+          0
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "top-right": [
+        [],
+        [],
+        [
+          3,
+          5,
+          6,
+          7
+        ],
+        [],
+        [
+          6
+        ],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [],
+        [],
+        [
+          2
+        ],
+        [],
+        [
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2
+        ],
+        []
+      ],
+      "bottom-right": [
+        [
+          1,
+          5,
+          7,
+          8
+        ],
+        [],
+        [],
+        [],
+        [
+          8
+        ],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_4.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 4,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 40,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          312.1413879394531,
+          649.267578125,
+          241.37667846679688,
+          81.5477294921875
+        ],
+        "text": "tiated by an appropriate signal, which may be provided by\nthe host or environment. These environmental signals\nmay stimulate the embryo to secrete compounds, for\nexample, hatching enzymes [41,42], which then degrade\nthe eggshell or cyst and thus facilitate hatching. Hatching\nenzymes have been identified in Ascaris spp. [43,44]H.\ncontortus 145] and Heligmasomoides polygyrus [46] and\n",
+        "word_count": 71,
+        "parent_child_relations": [],
+        "size": 19683.72008133307
+      },
+      {
+        "segment_id": 41,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          53.87321853637695,
+          649.47265625,
+          241.97153854370117,
+          46.76324462890625
+        ],
+        "text": "cates that these enzymes might have other functions too.\nThe high expression of LAP to the adult longitudinal mus-\ndle layers compared to collagenase suggests that it also\nplays a major role in tissue remodeling in these locations.\n",
+        "word_count": 40,
+        "parent_child_relations": [],
+        "size": 11315.374250151915
+      },
+      {
+        "segment_id": 42,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          54.5728874206543,
+          707.921630859375,
+          240.15571975708008,
+          22.83935546875
+        ],
+        "text": "The hatching of parasite eggs represents a critical phase in\na parasite's lifecycle. In general, the hatching process is ini-\n",
+        "word_count": 23,
+        "parent_child_relations": [],
+        "size": 5485.001851385459
+      },
+      {
+        "segment_id": 43,
+        "local_id": 3,
+        "category_id": "figure caption",
+        "bbox": [
+          53.457725524902344,
+          582.851806640625,
+          500.2651138305664,
+          37.19232177734375
+        ],
+        "text": "Immunohistochemical staining of S. cervi 175 kDa Collagenase. (IA) Control Section, (IB) Transverse section showing positive\nstaining for 175 kDa collagenase: (IC) Body wall: (ID) Intestine and ovary growing zone: (IE) Uterus showing mature egg: (IF)\nGrowing embryos: (IG) Microfilaria showing immunostaining in intestine and excretory-secretory pore.\n",
+        "word_count": 69,
+        "parent_child_relations": [
+          [
+            "child",
+            "4"
+          ]
+        ],
+        "size": 18606.021087565925
+      },
+      {
+        "segment_id": 44,
+        "local_id": 4,
+        "category_id": "figure",
+        "bbox": [
+          53.11198806762695,
+          80.93649291992188,
+          498.37910079956055,
+          491.4519958496094
+        ],
+        "text": "Ecu\nHpd\nUt\nEml\nmf\nInt\n50um\nOvgz\nMeg\nEmb\n1E\nEx/Saop\n50um\n",
+        "word_count": 13,
+        "parent_child_relations": [
+          [
+            "parent",
+            "3"
+          ]
+        ],
+        "size": 244929.40377767768
+      }
+    ],
+    "relations": {
+      "top": [
+        [],
+        [
+          2
+        ],
+        [],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "bottom": [
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          1,
+          3,
+          4
+        ],
+        [
+          4
+        ],
+        []
+      ],
+      "left": [
+        [],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [],
+        []
+      ],
+      "right": [
+        [
+          1,
+          2
+        ],
+        [],
+        [],
+        [],
+        []
+      ],
+      "top-left": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "top-right": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-right": [
+        [],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_5.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 5,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 45,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          312.6660461425781,
+          508.2859802246094,
+          240.52053833007812,
+          116.69039916992188
+        ],
+        "text": "of these two proteases in terms of their tertiary structure\nmay enable the design of specific inhibitors in order to\nblock the egg hatch process. The use of specific protease\ninhibitors which are non-toxic to the host, but which dis-\nplay specificity for the target protease represents a novel\napproaches to chemotherapy. Such an approach has been\ninvestigated in Schistosoma spp. where specific inhibitors\nare being designed to block the activity of an elastase pro-\ntease in order to prevent skin penetration of this parasite\n[47,48].\n",
+        "word_count": 93,
+        "parent_child_relations": [],
+        "size": 28066.43762630131
+      },
+      {
+        "segment_id": 46,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          54.32262420654297,
+          508.046875,
+          241.40436553955078,
+          174.9827880859375
+        ],
+        "text": "include molecules such as proteases, lipases, chitinases, a-\nand B-glycosidases and leucine aminopeptidases. Unlike\nother helminth parasites, filarial woms such as S. cervi are\novoviviparous and thus directly release mf in host blood\ncirculation. The presence of both collagenase and LAP on\nthe egg and embryo surface clearly indicates their roles in\neggshell remodeling, embryogenesis and release of mf\nfrom uterus. An interesting observation noted was that the\nexpressions of both enzymes gradually increased as the\neggs maturation progress indicating their roles in hatching\nand embryogenesis. Furthermore, an inverse relationship\nwas observed between thickness of ovary wall and expres-\nsion of both the enzymes. This unique observation\nimplies that both LAP and collagenase are intimately\ninvolved in releasing of mf from uterus\n",
+        "word_count": 133,
+        "parent_child_relations": [],
+        "size": 42241.60893822741
+      },
+      {
+        "segment_id": 47,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          311.96624755859375,
+          637.34228515625,
+          241.4886474609375,
+          93.2823486328125
+        ],
+        "text": "Like other hematophagus helminths, S. cervi parasites also\nrequire blood and other proteins as a source of nutrients\nto mature and reproduce, The expression of both the pro-\nteases in the gastrodermis clearly supports the view that\nthey are intimately involved in digestion of protein food\nof the parasite. In a typical proteolytic cascade that ensues\nduring protein metabolism in helminth parasites, colla-\ngenase being an endopeptidase can be expected to play a\n",
+        "word_count": 77,
+        "parent_child_relations": [],
+        "size": 22526.628203317523
+      },
+      {
+        "segment_id": 48,
+        "local_id": 3,
+        "category_id": "text",
+        "bbox": [
+          53.92631912231445,
+          696.2671508789062,
+          243.13972091674805,
+          34.52392578125
+        ],
+        "text": "The involvement of proteases in the egg hatch of S. cervi\nprovides the opportunity to investigate novel means for\ncontrolling the egg hatch process. Further characterization\n",
+        "word_count": 27,
+        "parent_child_relations": [],
+        "size": 8394.137679403648
+      },
+      {
+        "segment_id": 49,
+        "local_id": 4,
+        "category_id": "figure caption",
+        "bbox": [
+          54.95128631591797,
+          414.6877746582031,
+          499.1969680786133,
+          37.533477783203125
+        ],
+        "text": "Histochemical staining of S. cervi Leucine aminopeptidase. (2A) Control Section, (2B) Transverse section showing positive stain-\ning for LAP, (2C) Body wall: (2D) Intestine and ovary germinal zone (2E) Uterus containing mature eggs: (2F) Microfilaria inside\nuterus showing positive staining for LAP.\n",
+        "word_count": 60,
+        "parent_child_relations": [
+          [
+            "child",
+            "5"
+          ]
+        ],
+        "size": 18736.59831082099
+      },
+      {
+        "segment_id": 50,
+        "local_id": 5,
+        "category_id": "figure",
+        "bbox": [
+          51.76686477661133,
+          85.22076416015625,
+          502.5462455749512,
+          318.05242919921875
+        ],
+        "text": "100um\nEcu\nCu\nfmeg\n2A\n2B\n20\n100 um\nEnd\n100um\nUt\nInt\nOvgrz\n2D\n100um\n2E 100 pN\n2F\n",
+        "word_count": 20,
+        "parent_child_relations": [
+          [
+            "parent",
+            "4"
+          ]
+        ],
+        "size": 159836.05419006036
+      }
+    ],
+    "relations": {
+      "top": [
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [],
+        [],
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "bottom": [
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          0,
+          4,
+          5
+        ],
+        [
+          1,
+          4,
+          5
+        ],
+        [
+          5
+        ],
+        []
+      ],
+      "left": [
+        [],
+        [
+          0,
+          2
+        ],
+        [],
+        [
+          2
+        ],
+        [],
+        []
+      ],
+      "right": [
+        [
+          1
+        ],
+        [],
+        [
+          1,
+          3
+        ],
+        [],
+        [],
+        []
+      ],
+      "top-left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "top-right": [
+        [
+          3
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [],
+        [],
+        [
+          0
+        ],
+        [],
+        []
+      ],
+      "bottom-right": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_6.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 6,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 51,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          54.442039489746094,
+          308.52825927734375,
+          241.20886993408203,
+          117.54238891601562
+        ],
+        "text": "This paper is the part of PhD research of Mr Daya Ram\nPokharel. Hence, Daya Ram Pokharel had the main\nresponsibility for the study (planning, data analysis, and\nwriting). Rita Rai was involved in procuring adult S. cervi\nworms and revision of the manuscript. Pankaj Kumar was\ninvolved himself and helped in the conduction of experi-\nments. Chandra M Chaturvedi provided the laboratory\nfacility and supervised the experimental part. Sushma\nRathaur is PhD supervisor and helped to plan the study,.\nanalyze results, and write the manuscript.\n",
+        "word_count": 100,
+        "parent_child_relations": [
+          [
+            "child",
+            "4"
+          ]
+        ],
+        "size": 28352.2667997845
+      },
+      {
+        "segment_id": 52,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          54.55507278442383,
+          190.99766540527344,
+          241.6054801940918,
+          93.81376647949219
+        ],
+        "text": "In the present study, we have for the first time established\nthe tissue localization of collagenase and LAP in adult\nfemale S. cervi including eggs and mf and discussed their\nputative roles for the survival and persistence of parasite\nwithin the host. Our findings also open the avenue to\nexamine the roles of these two proteases in vivo, which will\nrequire further experiments like using their natural sub-\nstrates and/or specific inhibitors in cach tissues.\n",
+        "word_count": 79,
+        "parent_child_relations": [],
+        "size": 22665.920099094103
+      },
+      {
+        "segment_id": 53,
+        "local_id": 2,
+        "category_id": "text",
+        "bbox": [
+          54.494972229003906,
+          85.22693634033203,
+          241.2989730834961,
+          93.46944427490234
+        ],
+        "text": "role in cleaving of large polypeptide chains before LAP\nrelease free amino acids from the partially digested pro-\nteins at the final stage of cascade. Since LAP is almost non-\nfunctional below pH 5.0, it might be active within the gas-\ntrodermal cells and help in activation and secretion of\nother proenzymes of endo- and exopeptidases that are\nactive at low pH and also release free amino acids from\nabsorbed peptide fragments.\n",
+        "word_count": 75,
+        "parent_child_relations": [],
+        "size": 22554.080918219
+      },
+      {
+        "segment_id": 54,
+        "local_id": 3,
+        "category_id": "text",
+        "bbox": [
+          53.8116455078125,
+          450.4747009277344,
+          240.57977294921875,
+          93.32742309570312
+        ],
+        "text": "Daya Ram Pokharel is grateful to University Grants Commission, Nepal for\nproviding financial support for this work. Authors are chankful to Prof. S. C.\nLakhotia, Cytogenetics Laboratory. Dept. of Zoology. Banaras Hindu Uni-\nversity (BHU) for his kind permission to use Nkon Eclipse EB00 micro-\nscope for photography of parasite sections under study. We also thank Mr.\nHare Krishna Tiwari and Krishna Das Manandhar, Insticute of Medical Sci-\nences, BHU. for their expert technical hep in the manuscript preparation.\nAuthors are also grateful to CSIR, Dehi Scheme No. 37(1 189)/04EMR- I\nfor financial assistance.\n",
+        "word_count": 114,
+        "parent_child_relations": [
+          [
+            "child",
+            "5"
+          ]
+        ],
+        "size": 22452.690258299932
+      },
+      {
+        "segment_id": 55,
+        "local_id": 4,
+        "category_id": "title",
+        "bbox": [
+          54.8291130065918,
+          296.3900451660156,
+          112.74171829223633,
+          12.351104736328125
+        ],
+        "text": "Authors' contributions\n",
+        "word_count": 3,
+        "parent_child_relations": [
+          [
+            "parent",
+            "0"
+          ]
+        ],
+        "size": 1392.4847707810113
+      },
+      {
+        "segment_id": 56,
+        "local_id": 5,
+        "category_id": "title",
+        "bbox": [
+          55.182430267333984,
+          438.1979064941406,
+          97.82562637329102,
+          10.9417724609375
+        ],
+        "text": "Acknowledgements\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "3"
+          ]
+        ],
+        "size": 1070.3857446252368
+      },
+      {
+        "segment_id": 57,
+        "local_id": 6,
+        "category_id": "title",
+        "bbox": [
+          54.771358489990234,
+          554.6279296875,
+          55.46683883666992,
+          10.77935791015625
+        ],
+        "text": "References\n",
+        "word_count": 1,
+        "parent_child_relations": [
+          [
+            "parent",
+            "7"
+          ]
+        ],
+        "size": 597.8969079654198
+      },
+      {
+        "segment_id": 58,
+        "local_id": 7,
+        "category_id": "list",
+        "bbox": [
+          53.1264762878418,
+          566.1703491210938,
+          243.56807327270508,
+          152.03533935546875
+        ],
+        "text": "1. Gulano DB. Hong X. McKerrow JH, Blaxter ML Oksov Y, Liu J. Ghe-\ndin E. Lustigman S: A gene family of cathepsin L-like proteases\nof filarial nematodes are associated with larval molting and\ncuticle and eggshell remodeling. Mol Biochem Parasitol 2004,\n2. Hashmi S, Zhang J. Oksov Y. Lustigman S: The Coenorhabditis ele-\n136:227-242\ngans cathepsin Zz-like cysteine protease, Ce-CPZ-I, has a\nmultifunctional role during the worms' development. J Biol\nChem 2004, 279:6035-6045.\n3. Lustigman S, Zhang). Liu J. Oksov Y, Hashmi S: RNA interference\ntargeting cathepsin L and Z-like cysteine proteases of\nOnchocerca volvulus confirmed their essential function dur-\ning L3 molting. Mel Bachem Parasitol 2004, 138:165-170.\n4. Sajid M. McKerrow H: Cysteine proteases of parasitic organ-\n5. Tort J. Brindley PJ. Knox D. Wolfe KH, Dalton JP. Proteinases and\nisms. Mal Biochem Parasitol 2002, 120:1-21.\nassociated genes of parasitic helminths. Adv Parasitol 1999,\n43:61-266.\n",
+        "word_count": 183,
+        "parent_child_relations": [
+          [
+            "child",
+            "6"
+          ]
+        ],
+        "size": 37030.954676173395
+      },
+      {
+        "segment_id": 59,
+        "local_id": 8,
+        "category_id": "list",
+        "bbox": [
+          309.4676208496094,
+          88.21751403808594,
+          242.40396118164062,
+          624.5043487548828
+        ],
+        "text": "Wiliamson AL, Brindley P. Krax DP. Hoter P Loukas\nproteases of blood-feeding nematodes. Trends Parasitol 2003\n19:417-423,\n7.\nDigestive\nCordova M. Reategui L Espinoza R: Immunodiagnosis of human\nfasciolosis with Fasciola hepatice cysteine proteinases. Trans\nRoyal Soc of Trop Med and Hyg 199. 93:54-57.\nRokni MB, Massaud J. O'Neil SM. Parkinson M. Dalton JP. Diagnosis\nof human fasciolosis in the Gilan province of Northern Iran\napplication of cathepsin L-ELISA. Diag Microbiol Infect Dis 2002\n44:175-179.\nPiacenza L, Acosta D, Basmadjan 1, Dalton JP, Carmora C: Vaccina-\ntion with cathepsin L proteinases and with leucine ami-\nnopeptidase induces high levels, of protection againse\nfasciolosis in sheep. Infect Immun 1999, 67:1954-1961.\n10 Coombs GH, Mattram JC: Parasite proteinases and amino acid\nmetabolism: possibilities for chemotherapeutic exploitation.\nParasitol 1997:561-80.\nII. McKerrow JH. Engel JC. Caffrey CR: Cysteine protease inhibitors\nas chemotherapy for parasitic infections, Bisorg Med Cheme\n1999, 7:639-644.\n9.\n12 Selzer PM. Pingel 5, Hsieh I, Ugele B, Chan V\u1ecb. Engel JC. Bogro M. Rus-\nsell DG, Sakanari JA, McKerrow Jt Cysteine protease inhibitors\nas chemotherapy: lessons from a parasite target. Proc Nat\nAcad Sa USA 1999, 96:11015-11022.\n13. Singh RN. Rathaur S: Setaria cervi: In vitro released collagenases\nand their inhibition by Wuchereria bancrofti infected sera.\nHelminth 2003, 77:77-81.\n14. Srivastava Y, Gupta S, Pokharel DR. Rathaur S Setaria cervi colla\ngenase: IgG cleavage and inhibition by W. bancrofti infected\nsera. Acta Parasital 2004, 49:253-259.\n15. Srivastava Y. Bhandari YP, Reddy MVR, Harinath BC, Rathaur S: An\nadult 175 kDa collagenase antigen of Setoria cervi in immuno-\nprophylaxis against Brugia malayi. Helminth 2004, 78:347-352.\n16. Andrews SJ. Rolph TP, Munn EA, Taylor MA: Duration of protec-\ntive immunity against ovine haemonchosis following vacci-\nnation with the nematode gut membrane antigen HII. Res\nVet Sci 1997, 62:223-227\n17. Newton SE, Munn EA: The development of vaccines against\ngastrointestinal nematode parasites, particularly Haemon-\nchus contortus. Parasital Today 1999, 15:1 16-122.\n18 Shompele S. Jasmer DP. Cathepsin B-like cysteine proteases\nconfer intestinal cysteine protease activity in Haemonchus\ncontortus. / Bol Chem 2001, 276:2928-2934.\n19. Williamson AL, Brindley P. Abbenante G, Prociv P, Berry C. Gird-\nwood K. Pritchard DL Fairlie DP, Hotez PJ. Dalton JP, Loukas A\nCleavage of hemoglobin by hookworm cathepsin D aspartic\nproteases and its contribution to host-specificity. FASEB\n2002, 16:1458-1460.\n20. Wiliamson AL Lecchi P. Turk BE, Choe Y. Hotez PJ. McKerrow JH\nCandey LC. Sajid M., Craik CS, Loukas A A Multi-enzyme cascade\nof hemoglobin proteolysis in the intestine of blood-feeding\nhookworms. /bol Chem 2004, 279:35950-35957.\n21. Acosta D. Goni F. Carmona C: Characterization and partial\npurification of a leucine aminopeptidase from Fasciola hepat-\nica. Parositel 1998, 84:1-7.\n22 Rhoads ML, Fetterer RH: Purification and characterisation of a\nsecreted aminopeptidase from adult Arcaris suum, Int / Parasi\ntol 1998, 28:1681-1690.\n23. Rhodes MB. Marsh CL Ferguson DL Studies in helminth enzy-\nmology. VI. Aminopeptidases from uterine extracts of\nAscaris suum. Exp Parosital 1969, 26:140-149.\n24. Rhodes MB, Marsh CL, Ferguson DL: Ascaris suum : Purification\nand characterization of an intestinal aminopeptidase. Ex\nParasitol 1969, 26:150-155.\n25. Abouel-Nour MF. Lotfy M. E-Kady 1, El-Shahat M. Doughty BL\nLocalization of leucine aminopeptidase in the Schistosoma\nmansoni eggs and in liver tissue from infected mice. JEgype Soe\nParasitol 2005, 35:147-156.\n26. McCarthy E. Stacka C. Donnelly SM. Doyle S, Mann VH, Brindley PJ\nStewart M, Day TA, Maule AG, Dalton JP: Leucine aminopepti-\ndase of the human blood flukes, Schistoroma mansoni and\nSchistosoma japonicum. Ine Parasitol 2004, 34:703-714.\n27. Cuello AC: Immunohistochemistry II. Chichester UK John Wiley\n& Sons: 1993\n",
+        "word_count": 741,
+        "parent_child_relations": [],
+        "size": 151382.32791334437
+      }
+    ],
+    "relations": {
+      "top": [
+        [
+          3,
+          5,
+          6,
+          7
+        ],
+        [
+          0,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          3,
+          5,
+          6,
+          7
+        ],
+        [
+          3,
+          6,
+          7
+        ],
+        [
+          7
+        ],
+        [],
+        []
+      ],
+      "bottom": [
+        [
+          1,
+          2
+        ],
+        [
+          2
+        ],
+        [],
+        [
+          0,
+          1,
+          2,
+          4,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2,
+          4
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        []
+      ],
+      "left": [
+        [
+          4,
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        [
+          8
+        ],
+        []
+      ],
+      "right": [
+        [],
+        [],
+        [],
+        [],
+        [
+          0
+        ],
+        [],
+        [],
+        [],
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "top-left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "top-right": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "bottom-right": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ]
+    }
+  },
+  {
+    "page_filename": "16716219.pdf_7.png",
+    "page_index": 0,
+    "page_info": {
+      "page_number": 7,
+      "width": 610,
+      "height": 792
+    },
+    "objects": [
+      {
+        "segment_id": 60,
+        "local_id": 0,
+        "category_id": "text",
+        "bbox": [
+          327.0435485839844,
+          621.4495849609375,
+          212.08139038085938,
+          28.23114013671875
+        ],
+        "text": "*BioMed Central will be the mast significant development for\ndaseminating the resufts of biomedical research in our Nfetime.\nSir Paul Nurse Cancer Research UK\n",
+        "word_count": 25,
+        "parent_child_relations": [
+          [
+            "parent",
+            "2"
+          ]
+        ],
+        "size": 5987.299452232197
+      },
+      {
+        "segment_id": 61,
+        "local_id": 1,
+        "category_id": "text",
+        "bbox": [
+          336.57421875,
+          658.3052368164062,
+          107.2655029296875,
+          9.01177978515625
+        ],
+        "text": "Your research papers will be:\n",
+        "word_count": 6,
+        "parent_child_relations": [],
+        "size": 966.6530909463763
+      },
+      {
+        "segment_id": 62,
+        "local_id": 2,
+        "category_id": "list",
+        "bbox": [
+          53.62776565551758,
+          94.305419921875,
+          240.53440475463867,
+          560.30126953125
+        ],
+        "text": "onstration of leucine aminopeptidase. Histochem Cytochem\n1957, 5:264.\n29. Page AP: The nematode cuticle: synthesis, modification and\nmutants. In Parasitie nematodes molecular biology biochemistry and\nimmunalogy Edited by: Kennedy MW, Harnett W. Oxon. UK: CABI\nPublishing 2001:167-186.\n30. Lee DL Cuticle, moulting and exsheathment. In The biology of\nnematodes Edited by: Lee DL. London: Taylor & Francis Ine\n2002171-209,\n31. Hang X. Bouvier J. Wang MM, Yamagata GY, McKerrow JH: Brugia\npahangi i identification and characterization of an ami-\nnopeptidase associated with larval molting. Exp Parasitol 1993.\n76:127.133.\n32 Lustigman S, McKerrow JH, Shah K. Lui J. Huima T. Hough M, Brot-\nman 8: Cloning of a cysteine protease required for the molt-\ning of Onchocerca volvulus third stage larvae. J Biol Chem 1996.\n271:30181-30189.\n33. Lustigman S: Molting, enzymes and new targets for chemo-\ntherapy of Onchocerca volvulus. Parasitol Today 1993, 9:294-297.\n34. Davey KG. Kan SP: Molting in a parasitic nematode.\nPhocanema decipiens. IV. Ecdysis and its control. Con / Zol\n1968. 46:893-898.\n35. Hotez P. Haggerty Hawdon J. Milstone L, Gamble HR, Schad G,\nRichard F: Metalloproteases of infective Ancylostoma hook-\nworm larvae and their possible functions in tissue invasion\nand ecdysis. Infect Immun 1990, 58:1883-3892.\n34. Gamble HR, Purcel JP, Fetterer RH: Purification of a 44 kilodal-\nton protease which mediates the ecdysis of infective\nHaemonchus contortus larvae.\nMal Biochem Parasitol 1989.\n33:49-58,\n37. Redmond DL, Knox DP. Newlands G. Smith WD: Molecular clon-\ning and characterisation of a developmentally regulated\nputative metallopeptidase present in a host protective\nextract of Hoemonchus contortus. Mol Biochem Parastol 1997.\n85:77-87.\n38. Rogers WP. The role of leucine aminopeptidase in the molting\nof nematode parasites. Comp Brochem Physiol 1965, 14:311-316.\n39. Davis MW, Birnie AJ. Chan AC. Page AP. Jorgensen AM A con-\nserved metalloprotease mediates ecdysis in Caenorhabditis\nelegans. Developrment 2004, 131:6001-6008.\n40. Richer K. Hunt WG, Sakanari JA, Grieve RB: Dirofilaria immitis\neffect of fluoromethyl ketone cysteine protease inhibitors on\nthe third- to fourth-stage molt. Exp Parasitol 1993, 76:221-231.\n41. Sommervile RI, Rogers WP: The nature and action of host sig-\nnals. Adv Parasitol 1987, 26:239-293.\n42 Rogers WP: Exsheathment and hatching mechanisms in\nhelminths. In Bioogy of parasites Edited by: Soulsby EL New York:\nOxford University Press 1966:33-40.\n43. Hinck LW, Ivey MH: Proteinase activity in Ascoris suum eggs\nhatching fluid, and excretions-secretions. / Porantol 1976.\n162:771-774.\nRagers WP: Physiology of the hatching of eggs of Ascaris lum-\nbricoides. Nature 1958, 181:1410-1411.\n45. Rogers WP, Brooks F. The mechanism of hatching of eggs of\nHoemonchus contortus. Int) Parontol 1997, 7:61-65.\n46. Arnold K. Brydon U Chappell LH. Gooday GW: Chitinolytic activ-\nities in Heligmosomoides polygyrus and their role in egg hatch-\ning. Mol Biochem Paresitol 1993, 58:317-324.\n47. Cohen FE, Gregoret LM, Amari P, Aldape K, Railey J. McKerrow JH:\nArresting tissue invasion of a parasite by protease inhibitors\nchosen with the aid of computer modeling. Biochem 199.\n44\n30:11221-11229,\n48. Ring CS, Sun E McKerrow JH Lee JK, Rosenthal PJ. Kuntz ID, Cohen\nFE Structure-based inhibitor design by using protein models\nfor the development of antiparasitic agents. Proc Nat Acad Sc\nUSA 1993, 90:3583-3587,\n",
+        "word_count": 660,
+        "parent_child_relations": [
+          [
+            "child",
+            "0"
+          ]
+        ],
+        "size": 134771.73234996758
+      }
+    ],
+    "relations": {
+      "top": [
+        [
+          1
+        ],
+        [],
+        []
+      ],
+      "bottom": [
+        [],
+        [
+          0
+        ],
+        []
+      ],
+      "left": [
+        [],
+        [],
+        [
+          0
+        ]
+      ],
+      "right": [
+        [
+          2
+        ],
+        [],
+        []
+      ],
+      "top-left": [
+        [],
+        [],
+        [
+          1
+        ]
+      ],
+      "top-right": [
+        [],
+        [],
+        []
+      ],
+      "bottom-left": [
+        [],
+        [],
+        []
+      ],
+      "bottom-right": [
+        [],
+        [
+          2
+        ],
+        []
+      ]
+    }
+  }
+]

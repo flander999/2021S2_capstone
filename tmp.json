@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "image_filename": "16716219.pdf_0.png",
+      "image_index": 0,
+      "image": "16716219.pdf_0",
+      "question": "How many text objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "value_inputs": [
+            "text"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 7,
+          "value_inputs": []
+        }
+      ],
+      "answer": 7,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 0
+    },
+    {
+      "image_filename": "16716219.pdf_1.png",
+      "image_index": 1,
+      "image": "16716219.pdf_1",
+      "question": "What number of title objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            7,
+            8,
+            9
+          ],
+          "value_inputs": [
+            "title"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 3,
+          "value_inputs": []
+        }
+      ],
+      "answer": 3,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 1
+    },
+    {
+      "image_filename": "16716219.pdf_2.png",
+      "image_index": 2,
+      "image": "16716219.pdf_2",
+      "question": "How many table caption objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            5
+          ],
+          "value_inputs": [
+            "table caption"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 1,
+          "value_inputs": []
+        }
+      ],
+      "answer": 1,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 2
+    },
+    {
+      "image_filename": "16716219.pdf_3.png",
+      "image_index": 3,
+      "image": "16716219.pdf_3",
+      "question": "What number of text objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "value_inputs": [
+            "text"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 7,
+          "value_inputs": []
+        }
+      ],
+      "answer": 7,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 3
+    },
+    {
+      "image_filename": "16716219.pdf_4.png",
+      "image_index": 4,
+      "image": "16716219.pdf_4",
+      "question": "What number of figure objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            4
+          ],
+          "value_inputs": [
+            "figure"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 1,
+          "value_inputs": []
+        }
+      ],
+      "answer": 1,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 4
+    },
+    {
+      "image_filename": "16716219.pdf_5.png",
+      "image_index": 5,
+      "image": "16716219.pdf_5",
+      "question": "How many figure caption objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            4
+          ],
+          "value_inputs": [
+            "figure caption"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 1,
+          "value_inputs": []
+        }
+      ],
+      "answer": 1,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 5
+    },
+    {
+      "image_filename": "16716219.pdf_6.png",
+      "image_index": 6,
+      "image": "16716219.pdf_6",
+      "question": "How many title objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            4,
+            5,
+            6
+          ],
+          "value_inputs": [
+            "title"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 3,
+          "value_inputs": []
+        }
+      ],
+      "answer": 3,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 6
+    },
+    {
+      "image_filename": "16716219.pdf_7.png",
+      "image_index": 7,
+      "image": "16716219.pdf_7",
+      "question": "What number of text objects are there?",
+      "program": [
+        {
+          "type": "scene",
+          "inputs": [],
+          "_output": [
+            0,
+            1,
+            2
+          ],
+          "value_inputs": []
+        },
+        {
+          "type": "filter_category",
+          "inputs": [
+            0
+          ],
+          "_output": [
+            0,
+            1
+          ],
+          "value_inputs": [
+            "text"
+          ]
+        },
+        {
+          "type": "count",
+          "inputs": [
+            1
+          ],
+          "_output": 2,
+          "value_inputs": []
+        }
+      ],
+      "answer": 2,
+      "template_filename": "general_count.json",
+      "question_family_index": 0,
+      "question_index": 7
+    }
+  ]
+}
